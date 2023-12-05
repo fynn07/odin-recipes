@@ -36,3 +36,17 @@ ul li a:hover{
     margin-right: auto;
     border-style:outset;
 }
+.choice{
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    
+}
+.choice img{
+    border: 3px solid black;
+}
+.container{
+    padding-left: 130px;
+}
+
+
